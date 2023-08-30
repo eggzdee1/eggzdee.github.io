@@ -1,10 +1,19 @@
 body {
     background-color: black;
+    font-family: Helvetica, Arial, sans-serif;
+    text-align: center;
+    color: lightgrey;
 }
 
 h1 {
-    font-family: Helvetica, Arial, sans-serif;
-    text-align: center;
     font-size: 50px;
-    color: lightgrey;
+}
+
+a {
+    font-size: 30px;
+    color: cadetblue;
+}
+
+h2 {
+    font-size: 40px;
 }
